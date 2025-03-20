@@ -1,0 +1,24 @@
+h1{ 
+    text-align: center;
+}
+h2{
+    font-family: "Kanit", sans-serif;
+    text-align: center;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+div{
+        background-color: pink;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: rgba(0, 0, 0, 0.56) 0px 22px 70px 4px;
+        /*Sombra utilizada de la pagina #82*/
+        text-align: center;
+        width: 500px;
+        height: 600px;
+        margin: 0 auto;
+}
